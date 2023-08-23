@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+*{
+    margin: 0px;
+    padsing: 0px;
+}
+.heading{
+    color: red;
+}
+.para{
+    color: black;
+}
+
+.items, .food-items{
+    font-size: 30px;
+    
+}
